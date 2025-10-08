@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Multi page",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -3785,7 +3785,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "Healthcare &amp; Hygiene",
+        "title": "Healthcare & Hygiene",
         "order": "4"
       },
       "components": [
