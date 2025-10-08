@@ -1226,6 +1226,8 @@ a {
 .cid-uYORn6AifN img,
 .cid-uYORn6AifN .item-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cid-uYORn6AifN .item:focus,
 .cid-uYORn6AifN span:focus {
