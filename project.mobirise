@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Multi page",
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -63,7 +63,7 @@
       "settings": {
         "main": true,
         "title": "Mitten's Cat Shop",
-        "meta_descr": "",
+        "meta_descr": "Mitten's Cat Shop Home Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -880,7 +880,8 @@
     "page1.html": {
       "settings": {
         "title": "Cats",
-        "order": "2"
+        "order": "2",
+        "meta_descr": "Mitten's Cat Shop Cat Categories"
       },
       "components": [
         {
@@ -1611,7 +1612,8 @@
     "page2.html": {
       "settings": {
         "title": "Food",
-        "order": "3"
+        "order": "3",
+        "meta_descr": "Mitten's Cat Shop Food Categories"
       },
       "components": [
         {
@@ -2221,7 +2223,8 @@
     "page3.html": {
       "settings": {
         "title": "Toys",
-        "order": "4"
+        "order": "4",
+        "meta_descr": "Mitten's Cat Shop Toys Categories"
       },
       "components": [
         {
@@ -2831,7 +2834,8 @@
     "page4.html": {
       "settings": {
         "title": "Healthcare",
-        "order": "5"
+        "order": "5",
+        "meta_descr": "Mitten's Cat Shop Healthcare Categories"
       },
       "components": [
         {
@@ -3441,7 +3445,8 @@
     "page5.html": {
       "settings": {
         "title": "FAQ",
-        "order": "6"
+        "order": "6",
+        "meta_descr": "Mitten's Cat Shop FAQ"
       },
       "components": [
         {
@@ -3989,7 +3994,8 @@
     "page6.html": {
       "settings": {
         "title": "Contact Us",
-        "order": "7"
+        "order": "7",
+        "meta_descr": "Mitten's Cat Shop Contact Us"
       },
       "components": [
         {
@@ -4573,7 +4579,8 @@
     "page8.html": {
       "settings": {
         "title": "About Us",
-        "order": "1"
+        "order": "1",
+        "meta_descr": "Mitten's Cat Shop About Us"
       },
       "components": [
         {
